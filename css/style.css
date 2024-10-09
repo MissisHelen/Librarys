@@ -12,7 +12,6 @@ body {
     padding-right: 15px;
     margin: 0 auto;
 }
-.page {}
 .page__hero {
     margin-bottom: 170px;
 }
@@ -85,7 +84,6 @@ body {
     flex-wrap: wrap;
     align-items: center;
 }
-.menu__item {}
 .menu__link {
     font-size: 16px;
     color: #9A9EA6;
@@ -206,7 +204,7 @@ body {
     text-decoration: underline;
     text-shadow: 0px 0px 8px #fff;
 }
-.content-hero__text {}
+
 .content-hero__text p {
     line-height: 187.5%;
 }
@@ -243,7 +241,7 @@ body {
     grid-template-rows: repeat(2, 1fr);
     gap: 27px;
 }
-.images-hero__item {}
+
 .images-hero__image {
     max-width: 100%;
     border-radius: 10px;
@@ -254,7 +252,7 @@ body {
     align-self: end;
     padding-bottom: 10px;
 }
-.images-hero__item_02 {}
+
 .images-hero__item_03 {
     align-self: center;
     justify-self: end;
@@ -329,7 +327,6 @@ body {
     }
 }
 /*/////////////////FEATURES//////////////////////////////*/
-.features__container {}
 .features__header-block {
     font-weight: 800;
 }
@@ -379,9 +376,7 @@ body {
     }
 }
 /*//////////////////SERVICES/////////////////////////////*/
-.services {}
-.services__container {}
-.services__header-block {}
+
 .services__items {
     display: grid;
     gap: 140px;
@@ -418,7 +413,6 @@ body {
 .services__title span {
     color: #4475F2;
 }
-.services__text {}
 .services__text p {
     line-height: 187.5%;
 }
@@ -502,7 +496,7 @@ body {
 .reviews__text p:not(:last-child) {
     margin-bottom: 10px;
 }
-.reviews__title {}
+
 .rewievs__link-title {
     color: #23a6f0;
     line-height: 187.5%;
@@ -525,7 +519,6 @@ body {
     box-shadow: 0 30px 60px 0 rgba(71, 74, 87, 0.25);
 }
 /*//////////////////FOOTER//////////////////////////////*/
-.footer {}
 .footer__body {
     margin-bottom: 95px;
 }
@@ -550,7 +543,6 @@ body {
 .footer__logo {
     max-width: 248px;
 }
-.footer__social {}
 .social {
     display: flex;
     flex-wrap: wrap;
@@ -558,7 +550,6 @@ body {
     height: 93px;
     align-items: center;
 }
-.social__item {}
 .footer__link {
     height: 93px;
     font-weight: 500;
